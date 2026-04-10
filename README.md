@@ -82,17 +82,6 @@ I write regularly about AWS architecture, cost optimization, and AI/ML engineeri
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
- 
-![Suhas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhasm1990&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasm1990&layout=compact&theme=tokyonight&hide_border=true)
- 
-</div>
-
----
-
 <div align="center">
 
 *"Ship production-grade systems. Write about what you learn. Keep building."*
